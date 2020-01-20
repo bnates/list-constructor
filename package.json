@@ -1,0 +1,27 @@
+{
+  "name": "list-constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnates/list-constructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnates/list-constructor/issues"
+  },
+  "homepage": "https://github.com/bnates/list-constructor#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "jest": "^24.9.0"
+  }
+}
